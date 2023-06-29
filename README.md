@@ -8,7 +8,10 @@
 
 ##
 ### Vamos nos conectar?
-<a href="https://www.linkedin.com/in/briam-ferreira/" target="_blank"><img align="center" alt="briam-linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+<div>
+  <a href="https://www.linkedin.com/in/briam-ferreira/" target="_blank">
+    <img align="center" alt="briam-linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+</div>
 
 ##
 ### Tecnologias que estou estudando:
