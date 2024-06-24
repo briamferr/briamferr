@@ -1,24 +1,40 @@
-## Olá! Eu sou o Briam Ferreira!
+# E aí? Eu sou o Briam!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=briamferr&show_icons=true&theme=chartreuse-dark)
+## Sobre mim
 
-<a href="https://github.com/briamferr/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=briamferr&layout=compact&langs_count=8&theme=chartreuse-dark&card_width=327"/>
-</a>
+- Me aventurando na área de tecnologia.
+- Natural do Rio de Janeiro, atualmente morando em Brasília.
+- Minha trajetória profissional vai desde a área industrial até a área automotiva.
 
-##
-### Vamos nos conectar?
-<div>
-  <a href="https://www.linkedin.com/in/briam-ferreira/" target="_blank">
-    <img align="center" alt="briam-linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>
+## 
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=briamferr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-##
-### Tecnologias que estou estudando:
-<div style="display: inline_block"><br>
-  <img align="center" alt="briam-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="briam-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="briam-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="briam-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="briam-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+## Tecnologias que estou estudando
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
+
+## Conexões
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/briam-ferreira/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discordapp.com/users/996027725166956666" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
 </div>
