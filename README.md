@@ -1,4 +1,4 @@
-# E aí? Eu sou o Briam!
+<h1> E aí? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Victory Hand Medium-Light Skin Tone" width="40" height="40" />  Eu sou o Briam!</h1>
 
 ## Sobre mim
 
@@ -7,9 +7,8 @@
 - Minha trajetória profissional vai desde a área industrial até a área automotiva.
 
 ## 
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=briamferr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=briamferr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=aura&hide_border=false&order=2" height="170" alt="languages graph"  />
 </div>
 
 ## Tecnologias que estou estudando
